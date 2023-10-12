@@ -1,8 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import Typed from "typed.js";
 import Aos from "aos";
-import p2Image from "./assets/p-2.jpg";
-import pImage from "./assets/p.jpg";
 import Image from "./Image";
 
 const Present = () => {
