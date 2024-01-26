@@ -36,7 +36,7 @@ const Present = () => {
   useEffect(() => {
     setTimeout(() => {
       const type1 = new Typed(wish1.current, {
-        strings: ["စော်ကြည်ထီပေါက်၊ အမေရိကားရောက်၊"],
+        strings: ["ဘဲကြည်ထီပေါက်၊ ဂျပန်ရောက်၊"],
         typeSpeed: 50,
         showCursor: false,
         loop: false,

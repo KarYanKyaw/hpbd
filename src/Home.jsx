@@ -9,7 +9,7 @@ const Home = () => {
   const name = useRef(null);
   useEffect(() => {
     const type = new Typed(name.current, {
-      strings: ["Zella", "Yan Naing"],
+      strings: ["Su Gyii"],
       typeSpeed: 150,
       showCursor: true,
       loop: true,
